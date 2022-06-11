@@ -1,0 +1,100 @@
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/02/21/-1750/07/28/
+!!!OTL@@DE: Gott sei uns gn&auml;dig und barmherzig
+!!!SCT: BWV 323
+!!!PC#: 320
+!!!AGN: chorale
+**ratio	**ratio	**ratio	**ratio
+*ICvox	*ICvox	*ICvox	*ICvox
+*Ibass	*Itenor	*Ialto	*Isoprn
+*I"Bass	*I"Tenor	*I"Alto	*I"Soprano
+*clefF4	*clefGv2	*clefG2	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*f#:	*f#:	*f#:	*f#:
+*M4/4	*M4/4	*M4/4	*M4/4
+*met(c)	*met(c)	*met(c)	*met(c)
+*MM100	*MM100	*MM100	*MM100
+=1-	=1-	=1-	=1-
+*ref:F#3	*ref:F#3	*ref:F#3	*ref:F#3	
+1	1.2	2	3.0
+*ref:G#3	*ref:G#3	*ref:G#3	*ref:G#3	
+1	1.2	1.6	1.6e
+=2	=2	=2	=2
+*ref:A3	*ref:A3	*ref:A3	*ref:A3	
+1	1.25	1.5	2.5
+*ref:G#3	*ref:G#3	*ref:G#3	*ref:G#3	
+1	1.2	1.667	2.666
+*ref:F#3	*ref:F#3	*ref:F#3	*ref:F#3	
+1	1.2	2	3.0
+*ref:E#3	*ref:E#3	*ref:E#3	*ref:E#3	
+1	1.2	2.4	3.2
+=3	=3	=3	=3
+*ref:F#3	*ref:F#3	*ref:F#3	*ref:F#3	
+1	1.2	2	3.2
+*ref:G#3	*ref:G#3	*ref:G#3	*ref:G#3	
+1	1.2	1.6X	.
+*ref:A3	*ref:A3	*ref:A3	*ref:A3	
+1	.	.	2.5
+*ref:F#3	*ref:F#3	*ref:F#3	*ref:F#3	
+1	1.2	2	.
+=4	=4	=4	=4
+*ref:D3	*ref:D3	*ref:D3	*ref:D3	
+1	1.5	2.5	3.334
+*ref:B2	*ref:B2	*ref:B2	*ref:B2	
+1	.	.	.
+*ref:E3	*ref:E3	*ref:E3	*ref:E3	
+1	1.25	2	.
+=5	=5	=5	=5
+*ref:A2	*ref:A2	*ref:A2	*ref:A2	
+1;	2;	3.0;	4;
+=6	=6	=6	=6
+*ref:A2	*ref:A2	*ref:A2	*ref:A2	
+1	2	3.0	5.0
+*ref:B2	*ref:B2	*ref:B2	*ref:B2	
+1	.	.	.
+*ref:C#3	*ref:C#3	*ref:C#3	*ref:C#3	
+1	1.6	.	4.8
+*ref:D3	*ref:D3	*ref:D3	*ref:D3	
+1	.	.	.
+=7	=7	=7	=7
+*ref:E3	*ref:E3	*ref:E3	*ref:E3	
+1	1.25	2	3.0
+.	1.5	2.5	3.0
+*ref:D#3	*ref:D#3	*ref:D#3	*ref:D#3	
+1	1.422	2.4	3.2
+.	2.4	2.844	3.2
+=8	=8	=8	=8
+*ref:E3	*ref:E3	*ref:E3	*ref:E3	
+1	2	2.5	3.0
+*ref:D3	*ref:D3	*ref:D3	*ref:D3	
+1X	1.667	2.5	2.5
+.	.	.	2.812
+=9	=9	=9	=9
+*ref:C#3	*ref:C#3	*ref:C#3	*ref:C#3	
+1	2	2.666	3.2
+.	1.778	.	3.0
+.	.	2.5	.
+=10	=10	=10	=10
+*ref:F#2	*ref:F#2	*ref:F#2	*ref:F#2	
+1	2.5	3.0	[4
+*ref:E3	*ref:E3	*ref:E3	*ref:E3	
+1X	.	.	.
+*ref:D3	*ref:D3	*ref:D3	*ref:D3	
+1	[1.667	[2	.
+*ref:B2	*ref:B2	*ref:B2	*ref:B2	
+1	.	.	.
+=11	=11	=11	=11
+*ref:F#2	*ref:F#2	*ref:F#2	*ref:F#2	
+1;	2.666]	3.2]	4;]
+.	2.5;	3.0;	.
+==	==	==	==
+*-	*-	*-	*-
+!!!hum2abc: -Q ''
+!!!title: @{PC#}. @{OTL@@DE}
+!!!YOR1: 371 vierstimmige Choralges&auml;nge von Johann Sebastian Bach,
+!!!YOR2: 4th ed. by Alfred D&ouml;rffel (Leipzig: Breitkopf und H&auml;rtel,
+!!!YOR2: c.1875). 178 pp. Plate "V.A.10".  reprint: J.S. Bach, 371 Four-Part
+!!!YOR4: Chorales (New York: Associated Music Publishers, Inc., c.1940).
+!!!SMS: B&H, 4th ed, Alfred D&ouml;rffel, c.1875, plate V.A.10
+!!!EED:  Craig Stuart Sapp
+!!!EEV:  2009/05/22
